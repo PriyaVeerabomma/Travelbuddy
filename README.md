@@ -381,9 +381,6 @@ Travel_Buddy/
 ## 👥 Contributors
 
 - Sai Priya Veerabomma
-- Sai Srunith Silvery
-- Vishal Prasanna
-
 ---
 
 ## 📜 License

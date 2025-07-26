@@ -1,0 +1,2079 @@
+{
+    "data": {
+      "context": {
+        "status": "incomplete",
+        "sessionId": "Cl0IARJZCk4KJGU4ZjhhMDJiLTlhZjEtNDJkMC1hOTk5LThlZTRkYjYwYjhmZBACGiRkNWJiNjQxYS1iNTZkLTQwZjctYjEzZS0yOTc5ZTJkZjhjMDkQhp_j2uIyGAESKHVzc19lYzgzNmRmZC0xZjUxLTQ3MWEtOTNjNy05ZGI2NmExZTNiYmIiAlVT",
+        "totalResults": 10
+      },
+      "itineraries": [
+        {
+          "id": "10081-2504151630--32339-1-12371-2504161950",
+          "price": {
+            "raw": 349.98,
+            "formatted": "$350",
+            "pricingOptionId": "Bt9StgqXjt2v"
+          },
+          "legs": [
+            {
+              "id": "10081-2504151630--32339-1-12371-2504161950",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1070,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T16:30:00",
+              "arrival": "2025-04-16T19:50:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32339,
+                    "alternateId": "60",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/60.png",
+                    "name": "Etihad Airways"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-9618-2504151630-2504161255--32339",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "AUH",
+                    "displayCode": "AUH",
+                    "parent": {
+                      "flightPlaceId": "AUHA",
+                      "displayCode": "AUH",
+                      "name": "Abu Dhabi",
+                      "type": "City"
+                    },
+                    "name": "Zayed International",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "departure": "2025-04-15T16:30:00",
+                  "arrival": "2025-04-16T12:55:00",
+                  "durationInMinutes": 745,
+                  "flightNumber": "8",
+                  "marketingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "9618-12371-2504161435-2504161950--32339",
+                  "origin": {
+                    "flightPlaceId": "AUH",
+                    "displayCode": "AUH",
+                    "parent": {
+                      "flightPlaceId": "AUHA",
+                      "displayCode": "AUH",
+                      "name": "Abu Dhabi",
+                      "type": "City"
+                    },
+                    "name": "Zayed International",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T14:35:00",
+                  "arrival": "2025-04-16T19:50:00",
+                  "durationInMinutes": 225,
+                  "flightNumber": "358",
+                  "marketingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 18.550951
+          },
+          "fareAttributes": {},
+          "tags": [
+            "cheapest",
+            "shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.999
+        },
+        {
+          "id": "10081-2504150720--31939-2-12371-2504161515",
+          "price": {
+            "raw": 530.98,
+            "formatted": "$531",
+            "pricingOptionId": "-4p6l1NBTfWJ"
+          },
+          "legs": [
+            {
+              "id": "10081-2504150720--31939-2-12371-2504161515",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1345,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T07:20:00",
+              "arrival": "2025-04-16T15:15:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  },
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504150720-2504150844--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T07:20:00",
+                  "arrival": "2025-04-15T08:44:00",
+                  "durationInMinutes": 84,
+                  "flightNumber": "3894",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-11089-2504151120-2504160640--31939",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T11:20:00",
+                  "arrival": "2025-04-16T06:40:00",
+                  "durationInMinutes": 740,
+                  "flightNumber": "704",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504160825-2504161515--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T08:25:00",
+                  "arrival": "2025-04-16T15:15:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "4776",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.592204
+        },
+        {
+          "id": "10081-2504151630--32339,-32213-2-12371-2504162350",
+          "price": {
+            "raw": 387.97,
+            "formatted": "$388",
+            "pricingOptionId": "hFB99tdp89M-"
+          },
+          "legs": [
+            {
+              "id": "10081-2504151630--32339,-32213-2-12371-2504162350",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1310,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T16:30:00",
+              "arrival": "2025-04-16T23:50:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32339,
+                    "alternateId": "60",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/60.png",
+                    "name": "Etihad Airways"
+                  },
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-9618-2504151630-2504161255--32339",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "AUH",
+                    "displayCode": "AUH",
+                    "parent": {
+                      "flightPlaceId": "AUHA",
+                      "displayCode": "AUH",
+                      "name": "Abu Dhabi",
+                      "type": "City"
+                    },
+                    "name": "Zayed International",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "departure": "2025-04-15T16:30:00",
+                  "arrival": "2025-04-16T12:55:00",
+                  "durationInMinutes": 745,
+                  "flightNumber": "8",
+                  "marketingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "9618-10002-2504161410-2504161945--32339",
+                  "origin": {
+                    "flightPlaceId": "AUH",
+                    "displayCode": "AUH",
+                    "parent": {
+                      "flightPlaceId": "AUHA",
+                      "displayCode": "AUH",
+                      "name": "Abu Dhabi",
+                      "type": "City"
+                    },
+                    "name": "Zayed International",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BLR",
+                    "displayCode": "BLR",
+                    "parent": {
+                      "flightPlaceId": "IBLR",
+                      "displayCode": "BLR",
+                      "name": "Bengaluru",
+                      "type": "City"
+                    },
+                    "name": "Bengaluru",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T14:10:00",
+                  "arrival": "2025-04-16T19:45:00",
+                  "durationInMinutes": 245,
+                  "flightNumber": "238",
+                  "marketingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32339,
+                    "name": "Etihad Airways",
+                    "alternateId": "60",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10002-12371-2504162230-2504162350--32213",
+                  "origin": {
+                    "flightPlaceId": "BLR",
+                    "displayCode": "BLR",
+                    "parent": {
+                      "flightPlaceId": "IBLR",
+                      "displayCode": "BLR",
+                      "name": "Bengaluru",
+                      "type": "City"
+                    },
+                    "name": "Bengaluru",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T22:30:00",
+                  "arrival": "2025-04-16T23:50:00",
+                  "durationInMinutes": 80,
+                  "flightNumber": "684",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": true,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 9.452593
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.474777
+        },
+        {
+          "id": "10081-2504152200--31939-1-12371-2504170200",
+          "price": {
+            "raw": 622.9,
+            "formatted": "$623",
+            "pricingOptionId": "9qhR_aU73K2z"
+          },
+          "legs": [
+            {
+              "id": "10081-2504152200--31939-1-12371-2504170200",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1110,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T22:00:00",
+              "arrival": "2025-04-17T02:00:00",
+              "timeDeltaInDays": 2,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-11089-2504152200-2504161650--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T22:00:00",
+                  "arrival": "2025-04-16T16:50:00",
+                  "durationInMinutes": 710,
+                  "flightNumber": "744",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504161910-2504170200--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T19:10:00",
+                  "arrival": "2025-04-17T02:00:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "500",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.371582
+        },
+        {
+          "id": "10081-2504152305--32348-1-12371-2504170305",
+          "price": {
+            "raw": 722.91,
+            "formatted": "$723",
+            "pricingOptionId": "MaMXPEpEzd2T"
+          },
+          "legs": [
+            {
+              "id": "10081-2504152305--32348-1-12371-2504170305",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1110,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T23:05:00",
+              "arrival": "2025-04-17T03:05:00",
+              "timeDeltaInDays": 2,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32348,
+                    "alternateId": "EK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EK.png",
+                    "name": "Emirates"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-11182-2504152305-2504161920--32348",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DXB",
+                    "displayCode": "DXB",
+                    "parent": {
+                      "flightPlaceId": "DXBA",
+                      "displayCode": "DXB",
+                      "name": "Dubai",
+                      "type": "City"
+                    },
+                    "name": "Dubai",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "departure": "2025-04-15T23:05:00",
+                  "arrival": "2025-04-16T19:20:00",
+                  "durationInMinutes": 735,
+                  "flightNumber": "238",
+                  "marketingCarrier": {
+                    "id": -32348,
+                    "name": "Emirates",
+                    "alternateId": "EK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32348,
+                    "name": "Emirates",
+                    "alternateId": "EK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11182-12371-2504162200-2504170305--32348",
+                  "origin": {
+                    "flightPlaceId": "DXB",
+                    "displayCode": "DXB",
+                    "parent": {
+                      "flightPlaceId": "DXBA",
+                      "displayCode": "DXB",
+                      "name": "Dubai",
+                      "type": "City"
+                    },
+                    "name": "Dubai",
+                    "type": "Airport",
+                    "country": "United Arab Emirates"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T22:00:00",
+                  "arrival": "2025-04-17T03:05:00",
+                  "durationInMinutes": 215,
+                  "flightNumber": "524",
+                  "marketingCarrier": {
+                    "id": -32348,
+                    "name": "Emirates",
+                    "alternateId": "EK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32348,
+                    "name": "Emirates",
+                    "alternateId": "EK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "third_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.363324
+        },
+        {
+          "id": "10081-2504151723--31939-2-12371-2504170200",
+          "price": {
+            "raw": 588.98,
+            "formatted": "$589",
+            "pricingOptionId": "a25q20vc5vr3"
+          },
+          "legs": [
+            {
+              "id": "10081-2504151723--31939-2-12371-2504170200",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1387,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T17:23:00",
+              "arrival": "2025-04-17T02:00:00",
+              "timeDeltaInDays": 2,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504151723-2504151844--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T17:23:00",
+                  "arrival": "2025-04-15T18:44:00",
+                  "durationInMinutes": 81,
+                  "flightNumber": "3804",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-11089-2504152200-2504161725--31939",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T22:00:00",
+                  "arrival": "2025-04-16T17:25:00",
+                  "durationInMinutes": 745,
+                  "flightNumber": "702",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504161910-2504170200--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T19:10:00",
+                  "arrival": "2025-04-17T02:00:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "500",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.316002
+        },
+        {
+          "id": "10081-2504150510--31939-2-12371-2504161515",
+          "price": {
+            "raw": 530.98,
+            "formatted": "$531",
+            "pricingOptionId": "nxVqTE72p7gR"
+          },
+          "legs": [
+            {
+              "id": "10081-2504150510--31939-2-12371-2504161515",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1475,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T05:10:00",
+              "arrival": "2025-04-16T15:15:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  },
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504150510-2504150634--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T05:10:00",
+                  "arrival": "2025-04-15T06:34:00",
+                  "durationInMinutes": 84,
+                  "flightNumber": "3847",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-11089-2504151120-2504160640--31939",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T11:20:00",
+                  "arrival": "2025-04-16T06:40:00",
+                  "durationInMinutes": 740,
+                  "flightNumber": "704",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504160825-2504161515--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T08:25:00",
+                  "arrival": "2025-04-16T15:15:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "4776",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.311656
+        },
+        {
+          "id": "10081-2504151600--31939-2-12371-2504170200",
+          "price": {
+            "raw": 588.98,
+            "formatted": "$589",
+            "pricingOptionId": "TSRYpef9Wsew"
+          },
+          "legs": [
+            {
+              "id": "10081-2504151600--31939-2-12371-2504170200",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1470,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T16:00:00",
+              "arrival": "2025-04-17T02:00:00",
+              "timeDeltaInDays": 2,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504151600-2504151720--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T16:00:00",
+                  "arrival": "2025-04-15T17:20:00",
+                  "durationInMinutes": 80,
+                  "flightNumber": "3912",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-11089-2504152200-2504161725--31939",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T22:00:00",
+                  "arrival": "2025-04-16T17:25:00",
+                  "durationInMinutes": 745,
+                  "flightNumber": "702",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504161910-2504170200--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T19:10:00",
+                  "arrival": "2025-04-17T02:00:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "500",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.309951
+        },
+        {
+          "id": "10081-2504151723--31939-2-12371-2504170225",
+          "price": {
+            "raw": 530.98,
+            "formatted": "$531",
+            "pricingOptionId": "yrLn7GXS9SXa"
+          },
+          "legs": [
+            {
+              "id": "10081-2504151723--31939-2-12371-2504170225",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1412,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T17:23:00",
+              "arrival": "2025-04-17T02:25:00",
+              "timeDeltaInDays": 2,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31939,
+                    "alternateId": "QR",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+                    "name": "Qatar Airways"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  },
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504151723-2504151844--31939",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T17:23:00",
+                  "arrival": "2025-04-15T18:44:00",
+                  "durationInMinutes": 81,
+                  "flightNumber": "3804",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-11089-2504152200-2504161725--31939",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "departure": "2025-04-15T22:00:00",
+                  "arrival": "2025-04-16T17:25:00",
+                  "durationInMinutes": 745,
+                  "flightNumber": "702",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "11089-12371-2504161935-2504170225--31939",
+                  "origin": {
+                    "flightPlaceId": "DOH",
+                    "displayCode": "DOH",
+                    "parent": {
+                      "flightPlaceId": "DOHA",
+                      "displayCode": "DOH",
+                      "name": "Doha",
+                      "type": "City"
+                    },
+                    "name": "Hamad International",
+                    "type": "Airport",
+                    "country": "Qatar"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T19:35:00",
+                  "arrival": "2025-04-17T02:25:00",
+                  "durationInMinutes": 260,
+                  "flightNumber": "4774",
+                  "marketingCarrier": {
+                    "id": -31939,
+                    "name": "Qatar Airways",
+                    "alternateId": "QR",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.308189
+        },
+        {
+          "id": "10081-2504150720--32171,-32672-2-12371-2504161630",
+          "price": {
+            "raw": 529.91,
+            "formatted": "$530",
+            "pricingOptionId": "1bozGLRJT8Kf"
+          },
+          "legs": [
+            {
+              "id": "10081-2504150720--32171,-32672-2-12371-2504161630",
+              "origin": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1420,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-15T07:20:00",
+              "arrival": "2025-04-16T16:30:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32171,
+                    "alternateId": "B6",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+                    "name": "jetBlue"
+                  },
+                  {
+                    "id": -32672,
+                    "alternateId": "AI",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AI.png",
+                    "name": "Air India"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10081-12712-2504150720-2504150844--32171",
+                  "origin": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-15T07:20:00",
+                  "arrival": "2025-04-15T08:44:00",
+                  "durationInMinutes": 84,
+                  "flightNumber": "1517",
+                  "marketingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32171,
+                    "name": "jetBlue",
+                    "alternateId": "B6",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12712-10075-2504151110-2504161140--32672",
+                  "origin": {
+                    "flightPlaceId": "JFK",
+                    "displayCode": "JFK",
+                    "parent": {
+                      "flightPlaceId": "NYCA",
+                      "displayCode": "NYC",
+                      "name": "New York",
+                      "type": "City"
+                    },
+                    "name": "New York John F. Kennedy",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-15T11:10:00",
+                  "arrival": "2025-04-16T11:40:00",
+                  "durationInMinutes": 900,
+                  "flightNumber": "116",
+                  "marketingCarrier": {
+                    "id": -32672,
+                    "name": "Air India",
+                    "alternateId": "AI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32672,
+                    "name": "Air India",
+                    "alternateId": "AI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10075-12371-2504161500-2504161630--32672",
+                  "origin": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-16T15:00:00",
+                  "arrival": "2025-04-16T16:30:00",
+                  "durationInMinutes": 90,
+                  "flightNumber": "2446",
+                  "marketingCarrier": {
+                    "id": -32672,
+                    "name": "Air India",
+                    "alternateId": "AI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32672,
+                    "name": "Air India",
+                    "alternateId": "AI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "third_cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.304501
+        }
+      ],
+      "messages": [],
+      "filterStats": {
+        "duration": {
+          "min": 1070,
+          "max": 1475,
+          "multiCityMin": 1070,
+          "multiCityMax": 1475
+        },
+        "airports": [
+          {
+            "city": "Boston",
+            "airports": [
+              {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International"
+              }
+            ]
+          },
+          {
+            "city": "Hyderabad",
+            "airports": [
+              {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad"
+              }
+            ]
+          }
+        ],
+        "carriers": [
+          {
+            "id": -32672,
+            "alternateId": "AI",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AI.png",
+            "name": "Air India"
+          },
+          {
+            "id": -32348,
+            "alternateId": "EK",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EK.png",
+            "name": "Emirates"
+          },
+          {
+            "id": -32339,
+            "alternateId": "60",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/60.png",
+            "name": "Etihad Airways"
+          },
+          {
+            "id": -32213,
+            "alternateId": "49",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+            "name": "IndiGo"
+          },
+          {
+            "id": -32171,
+            "alternateId": "B6",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/B6.png",
+            "name": "jetBlue"
+          },
+          {
+            "id": -31939,
+            "alternateId": "QR",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/QR.png",
+            "name": "Qatar Airways"
+          }
+        ],
+        "stopPrices": {
+          "direct": {
+            "isPresent": false
+          },
+          "one": {
+            "isPresent": true,
+            "formattedPrice": "$350"
+          },
+          "twoOrMore": {
+            "isPresent": true,
+            "formattedPrice": "$388"
+          }
+        }
+      },
+      "flightsSessionId": "e8f8a02b-9af1-42d0-a999-8ee4db60b8fd",
+      "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg",
+      "token": "eyJhIjoxLCJjIjowLCJpIjowLCJjYyI6ImVjb25vbXkiLCJvIjoiQk9TIiwiZCI6IkhZRCIsImQxIjoiMjAyNS0wNC0xNSJ9"
+    },
+    "status": true,
+    "message": "Successful"
+  }

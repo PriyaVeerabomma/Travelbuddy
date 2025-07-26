@@ -1,0 +1,46 @@
+name: Travel_Buddy CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types: [closed]
+    branches: [ main ]
+
+jobs:
+  deploy:
+    # Only run this job if a PR was merged or a direct push to main
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Ensure we're on the main branch
+      
+      - name: Deploy to server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          passphrase: ${{ secrets.SSH_PASSPHRASE }}
+          script: |
+            sudo apt update
+            cd ~/Travel_Buddy
+            git config --local credential.helper store
+            echo 'https://${{ secrets.GH_PAT_TOKEN }}@github.com/DAMG7245/Travel_Buddy.git' > ~/.git-credentials
+            git pull
+            
+            # Server deployment
+            cd server
+            docker compose down
+            docker compose build
+            docker compose up -d
+            
+            # Client deployment
+            cd ../client
+            npm install --legacy-peer-deps
+            npm run build
+            pm2 restart npm -- run dev || pm2 start npm -- run dev

@@ -1,0 +1,1575 @@
+{
+    "data": {
+      "context": {
+        "status": "incomplete",
+        "sessionId": "Cl0IARJZCk4KJGUyZmQ4OTk4LWRiMjMtNGE5OC1iZjIwLWMxMGFiMTU4MTA3NRACGiQzZjJkNTQzMy03NWI5LTRjM2QtOGI5ZS1jYmYyZjZmNDE5MDcQi-_Au-MyGAESKHVzc18zY2IwZGU0Yi04MjNhLTQ0NWQtYmY2Ny0xOTc2NzQzZWQwNTMiAlVT",
+        "totalResults": 10
+      },
+      "itineraries": [
+        {
+          "id": "10413-2504171230--30789-1-10081-2504171750",
+          "price": {
+            "raw": 668.22,
+            "formatted": "$669",
+            "pricingOptionId": "vqNP3aO4ZrUd"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171230--30789-1-10081-2504171750",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 680,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T12:30:00",
+              "arrival": "2025-04-17T17:50:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -30789,
+                    "alternateId": "PA",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/PA.png",
+                    "name": "Fly Play"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-12974-2504171230-2504171405--30789",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "KEF",
+                    "displayCode": "KEF",
+                    "parent": {
+                      "flightPlaceId": "REYK",
+                      "displayCode": "REK",
+                      "name": "Reykjavik",
+                      "type": "City"
+                    },
+                    "name": "Reykjavik Keflavik",
+                    "type": "Airport",
+                    "country": "Iceland"
+                  },
+                  "departure": "2025-04-17T12:30:00",
+                  "arrival": "2025-04-17T14:05:00",
+                  "durationInMinutes": 215,
+                  "flightNumber": "401",
+                  "marketingCarrier": {
+                    "id": -30789,
+                    "name": "Fly Play",
+                    "alternateId": "PA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -30789,
+                    "name": "Fly Play",
+                    "alternateId": "PA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12974-10081-2504171545-2504171750--30789",
+                  "origin": {
+                    "flightPlaceId": "KEF",
+                    "displayCode": "KEF",
+                    "parent": {
+                      "flightPlaceId": "REYK",
+                      "displayCode": "REK",
+                      "name": "Reykjavik",
+                      "type": "City"
+                    },
+                    "name": "Reykjavik Keflavik",
+                    "type": "Airport",
+                    "country": "Iceland"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T15:45:00",
+                  "arrival": "2025-04-17T17:50:00",
+                  "durationInMinutes": 365,
+                  "flightNumber": "111",
+                  "marketingCarrier": {
+                    "id": -30789,
+                    "name": "Fly Play",
+                    "alternateId": "PA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -30789,
+                    "name": "Fly Play",
+                    "alternateId": "PA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.999
+        },
+        {
+          "id": "10413-2504171145--32385-0-10081-2504171335",
+          "price": {
+            "raw": 1539.49,
+            "formatted": "$1,540",
+            "pricingOptionId": "GolTyHY--mwH"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171145--32385-0-10081-2504171335",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 470,
+              "stopCount": 0,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T11:45:00",
+              "arrival": "2025-04-17T13:35:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32385,
+                    "alternateId": "DL",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+                    "name": "Delta"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-10081-2504171145-2504171335--32385",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T11:45:00",
+                  "arrival": "2025-04-17T13:35:00",
+                  "durationInMinutes": 470,
+                  "flightNumber": "225",
+                  "marketingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.611298
+        },
+        {
+          "id": "10413-2504171145--31697-0-10081-2504171335",
+          "price": {
+            "raw": 1539.49,
+            "formatted": "$1,540",
+            "pricingOptionId": "1XECvBvTba_q"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171145--31697-0-10081-2504171335",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 470,
+              "stopCount": 0,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T11:45:00",
+              "arrival": "2025-04-17T13:35:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31697,
+                    "alternateId": "VS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/VS.png",
+                    "name": "Virgin Atlantic"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32385,
+                    "alternateId": "DL",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+                    "name": "Delta"
+                  }
+                ],
+                "operationType": "not_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-10081-2504171145-2504171335--31697",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T11:45:00",
+                  "arrival": "2025-04-17T13:35:00",
+                  "durationInMinutes": 470,
+                  "flightNumber": "3988",
+                  "marketingCarrier": {
+                    "id": -31697,
+                    "name": "Virgin Atlantic",
+                    "alternateId": "VS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.434548
+        },
+        {
+          "id": "10413-2504171400--32217-1-10081-2504171850",
+          "price": {
+            "raw": 1112.49,
+            "formatted": "$1,113",
+            "pricingOptionId": "CdJF_3VUnx28"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171400--32217-1-10081-2504171850",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 650,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T14:00:00",
+              "arrival": "2025-04-17T18:50:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32217,
+                    "alternateId": "FI",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FI.png",
+                    "name": "Icelandair"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-12974-2504171400-2504171535--32217",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "KEF",
+                    "displayCode": "KEF",
+                    "parent": {
+                      "flightPlaceId": "REYK",
+                      "displayCode": "REK",
+                      "name": "Reykjavik",
+                      "type": "City"
+                    },
+                    "name": "Reykjavik Keflavik",
+                    "type": "Airport",
+                    "country": "Iceland"
+                  },
+                  "departure": "2025-04-17T14:00:00",
+                  "arrival": "2025-04-17T15:35:00",
+                  "durationInMinutes": 215,
+                  "flightNumber": "543",
+                  "marketingCarrier": {
+                    "id": -32217,
+                    "name": "Icelandair",
+                    "alternateId": "FI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32217,
+                    "name": "Icelandair",
+                    "alternateId": "FI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12974-10081-2504171710-2504171850--32217",
+                  "origin": {
+                    "flightPlaceId": "KEF",
+                    "displayCode": "KEF",
+                    "parent": {
+                      "flightPlaceId": "REYK",
+                      "displayCode": "REK",
+                      "name": "Reykjavik",
+                      "type": "City"
+                    },
+                    "name": "Reykjavik Keflavik",
+                    "type": "Airport",
+                    "country": "Iceland"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T17:10:00",
+                  "arrival": "2025-04-17T18:50:00",
+                  "durationInMinutes": 340,
+                  "flightNumber": "631",
+                  "marketingCarrier": {
+                    "id": -32217,
+                    "name": "Icelandair",
+                    "alternateId": "FI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32217,
+                    "name": "Icelandair",
+                    "alternateId": "FI",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.35
+        },
+        {
+          "id": "10413-2504171010--31685,-32222-1-10081-2504172105",
+          "price": {
+            "raw": 824.23,
+            "formatted": "$825",
+            "pricingOptionId": "LH_fZUK1ykG4"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171010--31685,-32222-1-10081-2504172105",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1015,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T10:10:00",
+              "arrival": "2025-04-17T21:05:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31685,
+                    "alternateId": "07",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                    "name": "Vueling Airlines"
+                  },
+                  {
+                    "id": -32222,
+                    "alternateId": "IB",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31003,
+                    "alternateId": "I!",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I%21.png",
+                    "name": "Iberia For Level"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-9772-2504171010-2504171205--31685",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BCN",
+                    "displayCode": "BCN",
+                    "parent": {
+                      "flightPlaceId": "BARC",
+                      "displayCode": "BCN",
+                      "name": "Barcelona",
+                      "type": "City"
+                    },
+                    "name": "Barcelona",
+                    "type": "Airport",
+                    "country": "Spain"
+                  },
+                  "departure": "2025-04-17T10:10:00",
+                  "arrival": "2025-04-17T12:05:00",
+                  "durationInMinutes": 115,
+                  "flightNumber": "8243",
+                  "marketingCarrier": {
+                    "id": -31685,
+                    "name": "Vueling Airlines",
+                    "alternateId": "07",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31685,
+                    "name": "Vueling Airlines",
+                    "alternateId": "07",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "9772-10081-2504171830-2504172105--32222",
+                  "origin": {
+                    "flightPlaceId": "BCN",
+                    "displayCode": "BCN",
+                    "parent": {
+                      "flightPlaceId": "BARC",
+                      "displayCode": "BCN",
+                      "name": "Barcelona",
+                      "type": "City"
+                    },
+                    "name": "Barcelona",
+                    "type": "Airport",
+                    "country": "Spain"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T18:30:00",
+                  "arrival": "2025-04-17T21:05:00",
+                  "durationInMinutes": 515,
+                  "flightNumber": "2625",
+                  "marketingCarrier": {
+                    "id": -32222,
+                    "name": "Iberia",
+                    "alternateId": "IB",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31003,
+                    "name": "Iberia For Level",
+                    "alternateId": "I!",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": true,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.340154
+        },
+        {
+          "id": "10413-2504171250--31685,-32222-1-10081-2504172105",
+          "price": {
+            "raw": 963.81,
+            "formatted": "$964",
+            "pricingOptionId": "TNBTtDkraPdt"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171250--31685,-32222-1-10081-2504172105",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 855,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T12:50:00",
+              "arrival": "2025-04-17T21:05:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -31685,
+                    "alternateId": "07",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                    "name": "Vueling Airlines"
+                  },
+                  {
+                    "id": -32222,
+                    "alternateId": "IB",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31003,
+                    "alternateId": "I!",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I%21.png",
+                    "name": "Iberia For Level"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-9772-2504171250-2504171445--31685",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BCN",
+                    "displayCode": "BCN",
+                    "parent": {
+                      "flightPlaceId": "BARC",
+                      "displayCode": "BCN",
+                      "name": "Barcelona",
+                      "type": "City"
+                    },
+                    "name": "Barcelona",
+                    "type": "Airport",
+                    "country": "Spain"
+                  },
+                  "departure": "2025-04-17T12:50:00",
+                  "arrival": "2025-04-17T14:45:00",
+                  "durationInMinutes": 115,
+                  "flightNumber": "8251",
+                  "marketingCarrier": {
+                    "id": -31685,
+                    "name": "Vueling Airlines",
+                    "alternateId": "07",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31685,
+                    "name": "Vueling Airlines",
+                    "alternateId": "07",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "9772-10081-2504171830-2504172105--32222",
+                  "origin": {
+                    "flightPlaceId": "BCN",
+                    "displayCode": "BCN",
+                    "parent": {
+                      "flightPlaceId": "BARC",
+                      "displayCode": "BCN",
+                      "name": "Barcelona",
+                      "type": "City"
+                    },
+                    "name": "Barcelona",
+                    "type": "Airport",
+                    "country": "Spain"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T18:30:00",
+                  "arrival": "2025-04-17T21:05:00",
+                  "durationInMinutes": 515,
+                  "flightNumber": "2625",
+                  "marketingCarrier": {
+                    "id": -32222,
+                    "name": "Iberia",
+                    "alternateId": "IB",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31003,
+                    "name": "Iberia For Level",
+                    "alternateId": "I!",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": true,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "tags": [
+            "third_cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.321164
+        },
+        {
+          "id": "10413-2504171825--32385-0-10081-2504172020",
+          "price": {
+            "raw": 1539.86,
+            "formatted": "$1,540",
+            "pricingOptionId": "XhT-IOlIXUSj"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171825--32385-0-10081-2504172020",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 475,
+              "stopCount": 0,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T18:25:00",
+              "arrival": "2025-04-17T20:20:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32385,
+                    "alternateId": "DL",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+                    "name": "Delta"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32677,
+                    "alternateId": "AF",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AF.png",
+                    "name": "Air France"
+                  }
+                ],
+                "operationType": "not_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-10081-2504171825-2504172020--32385",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T18:25:00",
+                  "arrival": "2025-04-17T20:20:00",
+                  "durationInMinutes": 475,
+                  "flightNumber": "8623",
+                  "marketingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32677,
+                    "name": "Air France",
+                    "alternateId": "AF",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 8.616459
+          },
+          "fareAttributes": {},
+          "tags": [
+            "third_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.296472
+        },
+        {
+          "id": "10413-2504171325--32385-0-10081-2504171505",
+          "price": {
+            "raw": 1667.17,
+            "formatted": "$1,668",
+            "pricingOptionId": "_-HxOYwTyU1n"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171325--32385-0-10081-2504171505",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 460,
+              "stopCount": 0,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T13:25:00",
+              "arrival": "2025-04-17T15:05:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32385,
+                    "alternateId": "DL",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+                    "name": "Delta"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32677,
+                    "alternateId": "AF",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AF.png",
+                    "name": "Air France"
+                  }
+                ],
+                "operationType": "not_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-10081-2504171325-2504171505--32385",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T13:25:00",
+                  "arrival": "2025-04-17T15:05:00",
+                  "durationInMinutes": 460,
+                  "flightNumber": "8604",
+                  "marketingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32677,
+                    "name": "Air France",
+                    "alternateId": "AF",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 11.4468155
+          },
+          "fareAttributes": {},
+          "tags": [
+            "shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.252618
+        },
+        {
+          "id": "10413-2504170735--32385-1-10081-2504171210",
+          "price": {
+            "raw": 1538.33,
+            "formatted": "$1,539",
+            "pricingOptionId": "6fnhxUgUhIXC"
+          },
+          "legs": [
+            {
+              "id": "10413-2504170735--32385-1-10081-2504171210",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 635,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T07:35:00",
+              "arrival": "2025-04-17T12:10:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32385,
+                    "alternateId": "DL",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+                    "name": "Delta"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -32677,
+                    "alternateId": "AF",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AF.png",
+                    "name": "Air France"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-13554-2504170735-2504170800--32385",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "LHR",
+                    "displayCode": "LHR",
+                    "parent": {
+                      "flightPlaceId": "LOND",
+                      "displayCode": "LON",
+                      "name": "London",
+                      "type": "City"
+                    },
+                    "name": "London Heathrow",
+                    "type": "Airport",
+                    "country": "United Kingdom"
+                  },
+                  "departure": "2025-04-17T07:35:00",
+                  "arrival": "2025-04-17T08:00:00",
+                  "durationInMinutes": 85,
+                  "flightNumber": "8718",
+                  "marketingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32677,
+                    "name": "Air France",
+                    "alternateId": "AF",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "13554-10081-2504170940-2504171210--32385",
+                  "origin": {
+                    "flightPlaceId": "LHR",
+                    "displayCode": "LHR",
+                    "parent": {
+                      "flightPlaceId": "LOND",
+                      "displayCode": "LON",
+                      "name": "London",
+                      "type": "City"
+                    },
+                    "name": "London Heathrow",
+                    "type": "Airport",
+                    "country": "United Kingdom"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T09:40:00",
+                  "arrival": "2025-04-17T12:10:00",
+                  "durationInMinutes": 450,
+                  "flightNumber": "59",
+                  "marketingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32385,
+                    "name": "Delta",
+                    "alternateId": "DL",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.245297
+        },
+        {
+          "id": "10413-2504171815--32480,-32317-1-10081-2504172235",
+          "price": {
+            "raw": 1760.76,
+            "formatted": "$1,761",
+            "pricingOptionId": "cR7Fmt2Mtz7W"
+          },
+          "legs": [
+            {
+              "id": "10413-2504171815--32480,-32317-1-10081-2504172235",
+              "origin": {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle",
+                "displayCode": "CDG",
+                "city": "Paris",
+                "country": "France",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International",
+                "displayCode": "BOS",
+                "city": "Boston",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 620,
+              "stopCount": 1,
+              "isSmallestStops": false,
+              "departure": "2025-04-17T18:15:00",
+              "arrival": "2025-04-17T22:35:00",
+              "timeDeltaInDays": 0,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32480,
+                    "alternateId": "BA",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/BA.png",
+                    "name": "British Airways"
+                  },
+                  {
+                    "id": -32317,
+                    "alternateId": "AY",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AY.png",
+                    "name": "Finnair"
+                  }
+                ],
+                "operationType": "fully_operated"
+              },
+              "segments": [
+                {
+                  "id": "10413-13554-2504171815-2504171830--32480",
+                  "origin": {
+                    "flightPlaceId": "CDG",
+                    "displayCode": "CDG",
+                    "parent": {
+                      "flightPlaceId": "PARI",
+                      "displayCode": "PAR",
+                      "name": "Paris",
+                      "type": "City"
+                    },
+                    "name": "Paris Charles de Gaulle",
+                    "type": "Airport",
+                    "country": "France"
+                  },
+                  "destination": {
+                    "flightPlaceId": "LHR",
+                    "displayCode": "LHR",
+                    "parent": {
+                      "flightPlaceId": "LOND",
+                      "displayCode": "LON",
+                      "name": "London",
+                      "type": "City"
+                    },
+                    "name": "London Heathrow",
+                    "type": "Airport",
+                    "country": "United Kingdom"
+                  },
+                  "departure": "2025-04-17T18:15:00",
+                  "arrival": "2025-04-17T18:30:00",
+                  "durationInMinutes": 75,
+                  "flightNumber": "323",
+                  "marketingCarrier": {
+                    "id": -32480,
+                    "name": "British Airways",
+                    "alternateId": "BA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32480,
+                    "name": "British Airways",
+                    "alternateId": "BA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "13554-10081-2504172010-2504172235--32317",
+                  "origin": {
+                    "flightPlaceId": "LHR",
+                    "displayCode": "LHR",
+                    "parent": {
+                      "flightPlaceId": "LOND",
+                      "displayCode": "LON",
+                      "name": "London",
+                      "type": "City"
+                    },
+                    "name": "London Heathrow",
+                    "type": "Airport",
+                    "country": "United Kingdom"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOS",
+                    "displayCode": "BOS",
+                    "parent": {
+                      "flightPlaceId": "BOSA",
+                      "displayCode": "BOS",
+                      "name": "Boston",
+                      "type": "City"
+                    },
+                    "name": "Boston Logan International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-17T20:10:00",
+                  "arrival": "2025-04-17T22:35:00",
+                  "durationInMinutes": 445,
+                  "flightNumber": "5439",
+                  "marketingCarrier": {
+                    "id": -32317,
+                    "name": "Finnair",
+                    "alternateId": "AY",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32480,
+                    "name": "British Airways",
+                    "alternateId": "BA",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.235372
+        }
+      ],
+      "messages": [],
+      "filterStats": {
+        "duration": {
+          "min": 460,
+          "max": 1015,
+          "multiCityMin": 460,
+          "multiCityMax": 1015
+        },
+        "airports": [
+          {
+            "city": "Boston",
+            "airports": [
+              {
+                "id": "BOS",
+                "entityId": "95673679",
+                "name": "Boston Logan International"
+              }
+            ]
+          },
+          {
+            "city": "Paris",
+            "airports": [
+              {
+                "id": "CDG",
+                "entityId": "95565041",
+                "name": "Paris Charles de Gaulle"
+              }
+            ]
+          }
+        ],
+        "carriers": [
+          {
+            "id": -32480,
+            "alternateId": "BA",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/BA.png",
+            "name": "British Airways"
+          },
+          {
+            "id": -32385,
+            "alternateId": "DL",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/DL.png",
+            "name": "Delta"
+          },
+          {
+            "id": -32317,
+            "alternateId": "AY",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/AY.png",
+            "name": "Finnair"
+          },
+          {
+            "id": -30789,
+            "alternateId": "PA",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/PA.png",
+            "name": "Fly Play"
+          },
+          {
+            "id": -32222,
+            "alternateId": "IB",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+            "name": "Iberia"
+          },
+          {
+            "id": -32217,
+            "alternateId": "FI",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FI.png",
+            "name": "Icelandair"
+          },
+          {
+            "id": -31697,
+            "alternateId": "VS",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/VS.png",
+            "name": "Virgin Atlantic"
+          },
+          {
+            "id": -31685,
+            "alternateId": "07",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+            "name": "Vueling Airlines"
+          }
+        ],
+        "stopPrices": {
+          "direct": {
+            "isPresent": true,
+            "formattedPrice": "$1,540"
+          },
+          "one": {
+            "isPresent": true,
+            "formattedPrice": "$669"
+          },
+          "twoOrMore": {
+            "isPresent": false
+          }
+        }
+      },
+      "flightsSessionId": "e2fd8998-db23-4a98-bf20-c10ab1581075",
+      "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg",
+      "token": "eyJhIjoxLCJjIjowLCJpIjowLCJjYyI6ImVjb25vbXkiLCJvIjoiUEFSSSIsImQiOiJCT1MiLCJkMSI6IjIwMjUtMDQtMTcifQ=="
+    },
+    "status": true,
+    "message": "Successful"
+  }

@@ -1,0 +1,625 @@
+{
+    "data": {
+      "flightQuotes": {
+        "buckets": [
+          {
+            "id": "CHEAPEST_FLIGHT_QUOTES",
+            "label": "Cheapest flights",
+            "resultIds": [
+              "{bl}:202504170730*I*CDG*MIA*20250821*eapr*EZY",
+              "{bl}:202504170717*I*CDG*MIA*20250826*eapr*EZY",
+              "{bl}:202504152133*I*CDG*MIA*20250830*eapr*EZY",
+              "{bl}:202504170026*I*CDG*MIA*20250828*eapr*EZY",
+              "{bl}:202504171227*I*CDG*MIA*20250831*eapr*EZY",
+              "{bl}:202504132316*I*CDG*MIA*20250829*eapr*EZY",
+              "{bl}:202504170931*I*CDG*MIA*20250825*eapr*EZY",
+              "{bl}:202504140208*I*CDG*MIA*20250824*vaya*EZY",
+              "{bl}:202504141028*I*CDG*MIA*20250827*vaya*EZY"
+            ]
+          },
+          {
+            "id": "DIRECT_FLIGHT_QUOTES",
+            "label": "Direct flights",
+            "resultIds": [
+              "{bl}:202504170737*D*ORY*MIA*20250826*arus*BF",
+              "{bl}:202504171238*D*ORY*MIA*20250819*arus*BF",
+              "{bl}:202504152133*D*ORY*MIA*20250830*fbee*BF",
+              "{bl}:202504150943*D*ORY*MIA*20250823*fbee*BF",
+              "{bl}:202504171226*D*ORY*MIA*20250821*fbee*BF",
+              "{bl}:202504170026*D*ORY*MIA*20250828*fbee*BF",
+              "{bl}:202504170902*D*ORY*MIA*20250816*fbee*BF",
+              "{bl}:202504170900*D*ORY*MIA*20250814*fbee*BF",
+              "{bl}:202504171148*D*ORY*MIA*20250809*fbee*BF"
+            ]
+          }
+        ],
+        "results": [
+          {
+            "id": "{bl}:202504170026*I*CDG*MIA*20250828*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$307",
+              "rawPrice": 307,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-28",
+                "localDepartureDateLabel": "Thu, Aug 28"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170902*D*ORY*MIA*20250816*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$437",
+              "rawPrice": 437,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-16",
+                "localDepartureDateLabel": "Sat, Aug 16"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504171148*D*ORY*MIA*20250809*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$664",
+              "rawPrice": 664,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-09",
+                "localDepartureDateLabel": "Sat, Aug 9"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170737*D*ORY*MIA*20250826*arus*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$398",
+              "rawPrice": 398,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-26",
+                "localDepartureDateLabel": "Tue, Aug 26"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170717*I*CDG*MIA*20250826*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$306",
+              "rawPrice": 306,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-26",
+                "localDepartureDateLabel": "Tue, Aug 26"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170026*D*ORY*MIA*20250828*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$403",
+              "rawPrice": 403,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-28",
+                "localDepartureDateLabel": "Thu, Aug 28"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504132316*I*CDG*MIA*20250829*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$311",
+              "rawPrice": 311,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-29",
+                "localDepartureDateLabel": "Fri, Aug 29"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504152133*D*ORY*MIA*20250830*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$403",
+              "rawPrice": 403,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-30",
+                "localDepartureDateLabel": "Sat, Aug 30"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504171226*D*ORY*MIA*20250821*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$403",
+              "rawPrice": 403,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-21",
+                "localDepartureDateLabel": "Thu, Aug 21"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170730*I*CDG*MIA*20250821*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$306",
+              "rawPrice": 306,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-21",
+                "localDepartureDateLabel": "Thu, Aug 21"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504140208*I*CDG*MIA*20250824*vaya*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$319",
+              "rawPrice": 319,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-24",
+                "localDepartureDateLabel": "Sun, Aug 24"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504152133*I*CDG*MIA*20250830*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$307",
+              "rawPrice": 307,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-30",
+                "localDepartureDateLabel": "Sat, Aug 30"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504171238*D*ORY*MIA*20250819*arus*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$402",
+              "rawPrice": 402,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-19",
+                "localDepartureDateLabel": "Tue, Aug 19"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504141028*I*CDG*MIA*20250827*vaya*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$323",
+              "rawPrice": 323,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-27",
+                "localDepartureDateLabel": "Wed, Aug 27"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170931*I*CDG*MIA*20250825*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$313",
+              "rawPrice": 313,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-25",
+                "localDepartureDateLabel": "Mon, Aug 25"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504150943*D*ORY*MIA*20250823*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$403",
+              "rawPrice": 403,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-23",
+                "localDepartureDateLabel": "Sat, Aug 23"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504170900*D*ORY*MIA*20250814*fbee*BF",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$517",
+              "rawPrice": 517,
+              "direct": true,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565040",
+                  "skyCode": "ORY",
+                  "name": "ORY",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-14",
+                "localDepartureDateLabel": "Thu, Aug 14"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          },
+          {
+            "id": "{bl}:202504171227*I*CDG*MIA*20250831*eapr*EZY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$310",
+              "rawPrice": 310,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95565041",
+                  "skyCode": "CDG",
+                  "name": "CDG",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "95673821",
+                  "skyCode": "MIA",
+                  "name": "MIA",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-08-31",
+                "localDepartureDateLabel": "Sun, Aug 31"
+              }
+            },
+            "entityId": "eyJlIjoiOTU2NzM4MjEiLCJzIjoiTUlBIiwidCI6bnVsbH0=",
+            "skyId": "MIA"
+          }
+        ],
+        "months": [
+          {
+            "year": 2025,
+            "month": 4,
+            "monthLabel": "Apr",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 5,
+            "monthLabel": "May",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 6,
+            "monthLabel": "Jun",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 7,
+            "monthLabel": "Jul",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 8,
+            "monthLabel": "Aug",
+            "selected": true
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "monthLabel": "Sep",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "monthLabel": "Oct",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "monthLabel": "Nov",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "monthLabel": "Dec",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "monthLabel": "Jan",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "monthLabel": "Feb",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "monthLabel": "Mar",
+            "selected": false
+          }
+        ],
+        "context": {
+          "status": "complete",
+          "sessionId": "UNFOCUSED_SESSION_ID",
+          "totalResults": 18
+        }
+      },
+      "differentDestination": {
+        "location": {
+          "id": "29475437",
+          "skyCode": "US",
+          "name": "United States",
+          "type": "Nation"
+        },
+        "context": {
+          "status": "complete",
+          "sessionId": "UNFOCUSED_SESSION_ID",
+          "totalResults": 0
+        }
+      },
+      "context": {
+        "status": "complete",
+        "sessionId": "UNFOCUSED_SESSION_ID",
+        "totalResults": 0
+      }
+    },
+    "status": true,
+    "message": "Successful"
+  }

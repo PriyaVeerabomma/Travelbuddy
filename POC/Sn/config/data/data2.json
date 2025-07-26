@@ -1,0 +1,372 @@
+{
+    "data": {
+      "flightQuotes": {
+        "buckets": [
+          {
+            "id": "CHEAPEST_FLIGHT_QUOTES",
+            "label": "Cheapest flights",
+            "resultIds": [
+              "{bl}:202504122342*I*BOS*HYD*20250505*oojo*EY",
+              "{bl}:202504121833*I*BOS*HYD*20250508*oojo*EY",
+              "{bl}:202504122328*I*BOS*HYD*20250503*oojo*EY",
+              "{bl}:202504121843*I*BOS*HYD*20250506*oojo*EY",
+              "{bl}:202504111751*I*BOS*HYD*20250501*oojo*EY",
+              "{bl}:202504120828*I*BOS*HYD*20250507*oojo*EY",
+              "{bl}:202504121356*I*BOS*HYD*20250504*oojo*EY",
+              "{bl}:202504121003*I*BOS*HYD*20250502*oojo*EY",
+              "{bl}:202504120303*I*BOS*HYD*20250511*ingo*6E"
+            ]
+          },
+          {
+            "id": "DIRECT_FLIGHT_QUOTES",
+            "label": "Direct flights",
+            "resultIds": []
+          }
+        ],
+        "results": [
+          {
+            "id": "{bl}:202504121843*I*BOS*HYD*20250506*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$350",
+              "rawPrice": 350,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-06",
+                "localDepartureDateLabel": "Tue, May 6"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504121356*I*BOS*HYD*20250504*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$351",
+              "rawPrice": 351,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-04",
+                "localDepartureDateLabel": "Sun, May 4"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504121003*I*BOS*HYD*20250502*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$351",
+              "rawPrice": 351,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-02",
+                "localDepartureDateLabel": "Fri, May 2"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504120303*I*BOS*HYD*20250511*ingo*6E",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$436",
+              "rawPrice": 436,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-11",
+                "localDepartureDateLabel": "Sun, May 11"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504122342*I*BOS*HYD*20250505*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$350",
+              "rawPrice": 350,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-05",
+                "localDepartureDateLabel": "Mon, May 5"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504122328*I*BOS*HYD*20250503*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$350",
+              "rawPrice": 350,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-03",
+                "localDepartureDateLabel": "Sat, May 3"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504121833*I*BOS*HYD*20250508*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$350",
+              "rawPrice": 350,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-08",
+                "localDepartureDateLabel": "Thu, May 8"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504120828*I*BOS*HYD*20250507*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$351",
+              "rawPrice": 351,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-07",
+                "localDepartureDateLabel": "Wed, May 7"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          },
+          {
+            "id": "{bl}:202504111751*I*BOS*HYD*20250501*oojo*EY",
+            "type": "FLIGHT_QUOTE",
+            "content": {
+              "price": "$351",
+              "rawPrice": 351,
+              "direct": false,
+              "outboundLeg": {
+                "originAirport": {
+                  "id": "95673679",
+                  "skyCode": "BOS",
+                  "name": "BOS",
+                  "type": "Airport"
+                },
+                "destinationAirport": {
+                  "id": "128668073",
+                  "skyCode": "HYD",
+                  "name": "HYD",
+                  "type": "Airport"
+                },
+                "localDepartureDate": "2025-05-01",
+                "localDepartureDateLabel": "Thu, May 1"
+              }
+            },
+            "entityId": "eyJlIjoiMTI4NjY4MDczIiwicyI6IkhZRCIsInQiOm51bGx9",
+            "skyId": "HYD"
+          }
+        ],
+        "months": [
+          {
+            "year": 2025,
+            "month": 4,
+            "monthLabel": "Apr",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 5,
+            "monthLabel": "May",
+            "selected": true
+          },
+          {
+            "year": 2025,
+            "month": 6,
+            "monthLabel": "Jun",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 7,
+            "monthLabel": "Jul",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 8,
+            "monthLabel": "Aug",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "monthLabel": "Sep",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "monthLabel": "Oct",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "monthLabel": "Nov",
+            "selected": false
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "monthLabel": "Dec",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "monthLabel": "Jan",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "monthLabel": "Feb",
+            "selected": false
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "monthLabel": "Mar",
+            "selected": false
+          }
+        ],
+        "context": {
+          "status": "complete",
+          "sessionId": "UNFOCUSED_SESSION_ID",
+          "totalResults": 9
+        }
+      },
+      "differentDestination": {
+        "location": {
+          "id": "29475284",
+          "skyCode": "IN",
+          "name": "India",
+          "type": "Nation"
+        },
+        "context": {
+          "status": "complete",
+          "sessionId": "UNFOCUSED_SESSION_ID",
+          "totalResults": 0
+        }
+      },
+      "context": {
+        "status": "complete",
+        "sessionId": "UNFOCUSED_SESSION_ID",
+        "totalResults": 0
+      }
+    },
+    "status": true,
+    "message": "Successful"
+  }

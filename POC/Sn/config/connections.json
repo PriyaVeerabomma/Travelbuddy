@@ -1,0 +1,20 @@
+{
+    "connections": [
+        {
+            "id": "snowflake_conn",
+            "conn_type": "snowflake",
+            "description": "Connection to Snowflake",
+            "host": "your_snowflake_account.snowflakecomputing.com",
+            "schema": "your_schema",
+            "login": "your_username",
+            "password": "your_password",
+            "port": "",
+            "extra": {
+                "database": "your_database",
+                "warehouse": "your_warehouse",
+                "role": "your_role",
+                "account": "your_account"
+            }
+        }
+    ]
+}

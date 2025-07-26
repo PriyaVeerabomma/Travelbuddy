@@ -1,0 +1,14 @@
+python-dotenv
+load_dotenv
+crewai
+crewai_tools
+python-docx
+textwrap3
+langchain_groq
+# opencv-python
+opencv-python-headless
+numpy
+unstructured
+streamlit
+streamlit_lottie
+-e .

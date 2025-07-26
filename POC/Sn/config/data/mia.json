@@ -1,0 +1,2281 @@
+{
+    "data": {
+      "context": {
+        "status": "incomplete",
+        "sessionId": "KLUv_SCN7QMAUkgcHbDrdNUacmSZzOwim4zC8X_KksgmZfIecw2a6GBDDxQgbjbvuL0dxSzLZe5LOusy9XWszVNVWUoBGKxd2YY9fxwp_7rSqbnVeVzZC935DzZDJjkCAvZLCv57A5eNX33Za1znXtymEfrTTwZniApAkIYCAFoVY1qBigI=",
+        "totalResults": 10
+      },
+      "itineraries": [
+        {
+          "id": "12371-2504222340--32213-2-14074-2504232020",
+          "price": {
+            "raw": 917.39,
+            "formatted": "$918",
+            "pricingOptionId": "ur5saAFhY3SQ"
+          },
+          "legs": [
+            {
+              "id": "12371-2504222340--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1810,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T23:40:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10075-2504222340-2504230115--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T23:40:00",
+                  "arrival": "2025-04-23T01:15:00",
+                  "durationInMinutes": 95,
+                  "flightNumber": "5195",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10075-12585-2504230715-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T07:15:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 410,
+                  "flightNumber": "17",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 12.068629
+          },
+          "fareAttributes": {},
+          "tags": [
+            "cheapest",
+            "shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.999
+        },
+        {
+          "id": "12371-2504222330--32213-2-14074-2504232020",
+          "price": {
+            "raw": 941.8,
+            "formatted": "$942",
+            "pricingOptionId": "Mnt7C-ar9k1-"
+          },
+          "legs": [
+            {
+              "id": "12371-2504222330--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1820,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T23:30:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504222330-2504230200--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T23:30:00",
+                  "arrival": "2025-04-23T02:00:00",
+                  "durationInMinutes": 150,
+                  "flightNumber": "6076",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 8.183169
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.941741
+        },
+        {
+          "id": "12371-2504222205--32213-2-14074-2504232020",
+          "price": {
+            "raw": 919.6,
+            "formatted": "$920",
+            "pricingOptionId": "bvLDyt1GppdC"
+          },
+          "legs": [
+            {
+              "id": "12371-2504222205--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1905,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T22:05:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10075-2504222205-2504222345--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T22:05:00",
+                  "arrival": "2025-04-22T23:45:00",
+                  "durationInMinutes": 100,
+                  "flightNumber": "5203",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10075-12585-2504230715-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T07:15:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 410,
+                  "flightNumber": "17",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 12.068629
+          },
+          "fareAttributes": {},
+          "tags": [
+            "second_cheapest",
+            "third_shortest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.901506
+        },
+        {
+          "id": "12371-2504222130--32213-2-14074-2504232020",
+          "price": {
+            "raw": 927.57,
+            "formatted": "$928",
+            "pricingOptionId": "xqfyqAGsdZSJ"
+          },
+          "legs": [
+            {
+              "id": "12371-2504222130--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 1940,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T21:30:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504222130-2504230005--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T21:30:00",
+                  "arrival": "2025-04-23T00:05:00",
+                  "durationInMinutes": 155,
+                  "flightNumber": "192",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 7.94363
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.850805
+        },
+        {
+          "id": "12371-2504222000--32213-2-14074-2504232020",
+          "price": {
+            "raw": 927.57,
+            "formatted": "$928",
+            "pricingOptionId": "mhky01hA0uFU"
+          },
+          "legs": [
+            {
+              "id": "12371-2504222000--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2030,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T20:00:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504222000-2504222225--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T20:00:00",
+                  "arrival": "2025-04-22T22:25:00",
+                  "durationInMinutes": 145,
+                  "flightNumber": "2027",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 7.94363
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.825462
+        },
+        {
+          "id": "12371-2504221900--32213-2-14074-2504232020",
+          "price": {
+            "raw": 927.11,
+            "formatted": "$928",
+            "pricingOptionId": "dsGX_JgPi2qM"
+          },
+          "legs": [
+            {
+              "id": "12371-2504221900--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2090,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T19:00:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10075-2504221900-2504222035--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T19:00:00",
+                  "arrival": "2025-04-22T20:35:00",
+                  "durationInMinutes": 95,
+                  "flightNumber": "5039",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10075-12585-2504230715-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T07:15:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 410,
+                  "flightNumber": "17",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 12.068629
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.810499
+        },
+        {
+          "id": "12371-2504221710--32213-2-14074-2504232020",
+          "price": {
+            "raw": 919.6,
+            "formatted": "$920",
+            "pricingOptionId": "6IwhK1Z7Zm9c"
+          },
+          "legs": [
+            {
+              "id": "12371-2504221710--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2200,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T17:10:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10075-2504221710-2504221845--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T17:10:00",
+                  "arrival": "2025-04-22T18:45:00",
+                  "durationInMinutes": 95,
+                  "flightNumber": "5259",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10075-12585-2504230715-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "BOM",
+                    "displayCode": "BOM",
+                    "parent": {
+                      "flightPlaceId": "IBOM",
+                      "displayCode": "BOM",
+                      "name": "Mumbai",
+                      "type": "City"
+                    },
+                    "name": "Mumbai",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T07:15:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 410,
+                  "flightNumber": "17",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 12.068629
+          },
+          "fareAttributes": {},
+          "tags": [
+            "third_cheapest"
+          ],
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.794376
+        },
+        {
+          "id": "12371-2504221815--32213-2-14074-2504232020",
+          "price": {
+            "raw": 936.6,
+            "formatted": "$937",
+            "pricingOptionId": "6onlcf6vd7fL"
+          },
+          "legs": [
+            {
+              "id": "12371-2504221815--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2135,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T18:15:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504221815-2504222035--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T18:15:00",
+                  "arrival": "2025-04-22T20:35:00",
+                  "durationInMinutes": 140,
+                  "flightNumber": "2401",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 8.183169
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.793113
+        },
+        {
+          "id": "12371-2504221700--32213-2-14074-2504232020",
+          "price": {
+            "raw": 947.5,
+            "formatted": "$948",
+            "pricingOptionId": "c7n8OLLj6I0k"
+          },
+          "legs": [
+            {
+              "id": "12371-2504221700--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2210,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T17:00:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504221700-2504221925--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T17:00:00",
+                  "arrival": "2025-04-22T19:25:00",
+                  "durationInMinutes": 145,
+                  "flightNumber": "6372",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 8.183169
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.771865
+        },
+        {
+          "id": "12371-2504221515--32213-2-14074-2504232020",
+          "price": {
+            "raw": 947.5,
+            "formatted": "$948",
+            "pricingOptionId": "B8btTdE2nuSe"
+          },
+          "legs": [
+            {
+              "id": "12371-2504221515--32213-2-14074-2504232020",
+              "origin": {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad",
+                "displayCode": "HYD",
+                "city": "Hyderabad",
+                "country": "India",
+                "isHighlighted": false
+              },
+              "destination": {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International",
+                "displayCode": "MIA",
+                "city": "Miami",
+                "country": "United States",
+                "isHighlighted": false
+              },
+              "durationInMinutes": 2315,
+              "stopCount": 2,
+              "isSmallestStops": false,
+              "departure": "2025-04-22T15:15:00",
+              "arrival": "2025-04-23T20:20:00",
+              "timeDeltaInDays": 1,
+              "carriers": {
+                "marketing": [
+                  {
+                    "id": -32213,
+                    "alternateId": "49",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+                    "name": "IndiGo"
+                  }
+                ],
+                "operating": [
+                  {
+                    "id": -31844,
+                    "alternateId": "XS",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/XS.png",
+                    "name": "SmartLynx"
+                  },
+                  {
+                    "id": -31734,
+                    "alternateId": "TK",
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/TK.png",
+                    "name": "Turkish Airlines"
+                  }
+                ],
+                "operationType": "partially_operated"
+              },
+              "segments": [
+                {
+                  "id": "12371-10957-2504221515-2504221740--32213",
+                  "origin": {
+                    "flightPlaceId": "HYD",
+                    "displayCode": "HYD",
+                    "parent": {
+                      "flightPlaceId": "IHYD",
+                      "displayCode": "HYD",
+                      "name": "Hyderabad",
+                      "type": "City"
+                    },
+                    "name": "Hyderabad",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "departure": "2025-04-22T15:15:00",
+                  "arrival": "2025-04-22T17:40:00",
+                  "durationInMinutes": 145,
+                  "flightNumber": "5287",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "10957-12585-2504230655-2504231135--32213",
+                  "origin": {
+                    "flightPlaceId": "DEL",
+                    "displayCode": "DEL",
+                    "parent": {
+                      "flightPlaceId": "IDEL",
+                      "displayCode": "DEL",
+                      "name": "New Delhi",
+                      "type": "City"
+                    },
+                    "name": "Indira Gandhi International ",
+                    "type": "Airport",
+                    "country": "India"
+                  },
+                  "destination": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "departure": "2025-04-23T06:55:00",
+                  "arrival": "2025-04-23T11:35:00",
+                  "durationInMinutes": 430,
+                  "flightNumber": "11",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31844,
+                    "name": "SmartLynx",
+                    "alternateId": "XS",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                },
+                {
+                  "id": "12585-14074-2504231450-2504232020--32213",
+                  "origin": {
+                    "flightPlaceId": "IST",
+                    "displayCode": "IST",
+                    "parent": {
+                      "flightPlaceId": "ISTA",
+                      "displayCode": "IST",
+                      "name": "Istanbul",
+                      "type": "City"
+                    },
+                    "name": "Istanbul",
+                    "type": "Airport",
+                    "country": "Türkiye (Turkey)"
+                  },
+                  "destination": {
+                    "flightPlaceId": "MIA",
+                    "displayCode": "MIA",
+                    "parent": {
+                      "flightPlaceId": "MIAA",
+                      "displayCode": "MIA",
+                      "name": "Miami",
+                      "type": "City"
+                    },
+                    "name": "Miami International",
+                    "type": "Airport",
+                    "country": "United States"
+                  },
+                  "departure": "2025-04-23T14:50:00",
+                  "arrival": "2025-04-23T20:20:00",
+                  "durationInMinutes": 750,
+                  "flightNumber": "4029",
+                  "marketingCarrier": {
+                    "id": -32213,
+                    "name": "IndiGo",
+                    "alternateId": "49",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  },
+                  "operatingCarrier": {
+                    "id": -31734,
+                    "name": "Turkish Airlines",
+                    "alternateId": "TK",
+                    "allianceId": 0,
+                    "displayCode": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "isSelfTransfer": false,
+          "isProtectedSelfTransfer": false,
+          "farePolicy": {
+            "isChangeAllowed": false,
+            "isPartiallyChangeable": false,
+            "isCancellationAllowed": false,
+            "isPartiallyRefundable": false
+          },
+          "eco": {
+            "ecoContenderDelta": 7.94363
+          },
+          "fareAttributes": {},
+          "isMashUp": false,
+          "hasFlexibleOptions": false,
+          "score": 0.75687
+        }
+      ],
+      "messages": [],
+      "filterStats": {
+        "duration": {
+          "min": 1810,
+          "max": 2315,
+          "multiCityMin": 1810,
+          "multiCityMax": 2315
+        },
+        "airports": [
+          {
+            "city": "Hyderabad",
+            "airports": [
+              {
+                "id": "HYD",
+                "entityId": "128668073",
+                "name": "Hyderabad"
+              }
+            ]
+          },
+          {
+            "city": "Miami",
+            "airports": [
+              {
+                "id": "MIA",
+                "entityId": "95673821",
+                "name": "Miami International"
+              }
+            ]
+          }
+        ],
+        "carriers": [
+          {
+            "id": -32213,
+            "alternateId": "49",
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/49.png",
+            "name": "IndiGo"
+          }
+        ],
+        "stopPrices": {
+          "direct": {
+            "isPresent": false
+          },
+          "one": {
+            "isPresent": false
+          },
+          "twoOrMore": {
+            "isPresent": true,
+            "formattedPrice": "$918"
+          }
+        }
+      },
+      "flightsSessionId": "fcfa34c7-4100-4ea2-aef4-539aff3d6f73",
+      "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg",
+      "token": "eyJhIjoxLCJjIjowLCJpIjowLCJjYyI6ImVjb25vbXkiLCJvIjoiSFlEIiwiZCI6Ik1JQSIsImQxIjoiMjAyNS0wNC0yMiJ9"
+    },
+    "status": true,
+    "message": "Successful"
+  }
